@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/r1apis/api.r1software.com/
+    - export DEPLOYPATH=/home/r1apis/gateway.apis.r1software.com/
     - /bin/cp -R * $DEPLOYPATH
